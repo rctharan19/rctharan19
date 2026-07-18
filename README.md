@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R C Tharan</h1>
-<h3 align="center">Data Analytics & AI Solutions Engineer | IoT Systems | IT Infrastructure</h3>
+<h3 align="center">AI/ML Engineer | Python Developer | Data Analytics & AI Solutions | IoT Systems | IT Infrastructure</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rctharan19">
@@ -21,10 +21,11 @@
 
 # 👨‍💻 About Me
 
-Results-driven IT and Data Analytics professional with a B.E. in Electrical & Electronics Engineering (CGPA 8.6/10) and 3+ years of hands-on experience across embedded systems, IoT, AI/GenAI solutions, and industrial automation.
+Results-driven IT and Data Analytics professional with a B.E. in Electrical & Electronics Engineering (CGPA 8.6/10) and 3+ years of hands-on experience across embedded systems, IoT, **AI/ML & GenAI solutions**, and industrial automation.
 
-- 💡 Skilled in building AI-powered analytics pipelines, RAG-based chatbots, semantic search engines, and data-driven dashboards using Power BI and Grafana
-- ☁️ Experienced in cloud platforms (AWS IoT Core), MQTT-based IoT systems, PLC programming (Siemens S7-1200), and predictive maintenance using ML
+- 🐍 Strong hands-on experience in **Python** — from data pipelines and automation scripts to AI/ML model integration
+- 💡 Skilled in building **AI/ML**-powered analytics pipelines, RAG-based chatbots, semantic search engines, and data-driven dashboards using Power BI and Grafana
+- ☁️ Experienced in cloud platforms (AWS IoT Core), MQTT-based IoT systems, PLC programming (Siemens S7-1200), and predictive maintenance using **ML**
 - 📊 Delivered automation projects cutting operational costs by **40%** and boosting efficiency by **30%**
 - 🌱 Currently exploring GenAI-powered Data Analytics (Forage Virtual Experience Program)
 - 🤝 Open to **AI/ML Engineer, Data Analyst, and IoT/Embedded Systems** opportunities
@@ -32,6 +33,13 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🛠️ Tech Stack
+
+## AI / ML / GenAI
+![RAG](https://img.shields.io/badge/RAG_Chatbots-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-8E44AD?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection_92%25-E67E22?style=for-the-badge)
+![GenAI Tools](https://img.shields.io/badge/GenAI_Tools-2ECC71?style=for-the-badge)
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,13 +49,6 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-CC0000?style=for-the-badge)
-
-## AI / ML / GenAI
-![RAG](https://img.shields.io/badge/RAG_Chatbots-FF6F00?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-8E44AD?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection_92%25-E67E22?style=for-the-badge)
-![GenAI Tools](https://img.shields.io/badge/GenAI_Tools-2ECC71?style=for-the-badge)
 
 ## Data Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
