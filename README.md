@@ -17,7 +17,6 @@
 <p align="center"><i>📍 Thanjavur, Tamil Nadu, India</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rctharan19&label=Profile%20Views&color=8e2de2&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/rctharan19?label=Followers&style=for-the-badge&color=4a00e0&logo=github"/>
 </p>
 
@@ -281,12 +280,6 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 ![](https://github-readme-stats.shion.dev/api?username=rctharan19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=10)
 ![](https://streak-stats.demolab.com/?user=rctharan19&theme=tokyonight&hide_border=true&border_radius=10)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rctharan19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10)
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/rctharan19/rctharan19/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>💡 To activate this animation: create a GitHub Action using <a href="https://github.com/Platane/snk">Platane/snk</a> in your `rctharan19/rctharan19` repo — it auto-generates a colorful animated snake from your real contribution graph.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
