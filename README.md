@@ -120,32 +120,6 @@
 
 ---
 
-# 💼 Experience Snapshot
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Forage-GenAI_Data_Analytics_Sim-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VilvaTech-R&D_Specialist-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NSIC-Embedded_%26_IT_Intern-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VilvaTech-Solar_%26_Automation_Intern-E67E22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SD_Pro-Control_Systems_Intern-C0392B?style=for-the-badge"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="left">
-  <img src="https://img.shields.io/badge/🎓_CGPA-8.6%2F10-C0392B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥇_University-Rank_1_(2023)-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥈_University-Rank_2_(2024)-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📄_Published-IJARSCT_2025-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📜_Certifications-15+-E67E22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💡_AI%2FGenAI_Projects-6+-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Efficiency_Gains-up_to_40%25-F39C12?style=for-the-badge"/>
-</p>
-
----
-
 # 📫 Connect with Me
 
 <p align="left">
