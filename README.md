@@ -1,4 +1,4 @@
-<h1 align="center">R C Tharan / README.md</h1>
+<h1 align="center">R C Tharan </h1>
 
 ### 📌 About Me:
 - ⚡ Data Analytics & AI Solutions Engineer | IoT Systems | IT Infrastructure
@@ -96,12 +96,12 @@
 # 📊 GitHub Stats:
 
 <p left="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rctharan19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tharan's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=rctharan19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tharan's GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rctharan19&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p left="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rctharan19&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rctharan19&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
