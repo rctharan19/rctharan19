@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm R C Tharan</h1>
-<h3 align="center">Data Analytics & AI Solutions Engineer | IoT Systems | IT Infrastructure</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=R%20C%20Tharan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%26%20AI%20Solutions%20Engineer%20%7C%20IoT%20Systems%20%7C%20IT%20Infrastructure&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/rctharan19">
@@ -15,9 +14,14 @@
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-<p align="center"><i>Thanjavur, Tamil Nadu, India</i></p>
+<p align="center"><i>📍 Thanjavur, Tamil Nadu, India</i></p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rctharan19&label=Profile%20Views&color=8e2de2&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rctharan19?label=Followers&style=for-the-badge&color=4a00e0&logo=github"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 👨‍💻 About Me
 
@@ -29,7 +33,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 - 🌱 Currently exploring GenAI-powered Data Analytics (Forage Virtual Experience Program)
 - 🤝 Open to **AI/ML Engineer, Data Analyst, and IoT/Embedded Systems** opportunities
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🛠️ Tech Stack
 
@@ -101,7 +105,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 ## Soft Skills
 `Team Leadership (4-6 members)` `Research & Publication` `Peer Mentoring` `Technical Communication`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 💼 Professional Experience
 
@@ -157,7 +161,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 - **Impact:** Demonstrated 35% improvement in transient response and 20% reduction in settling time
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🚀 Featured Projects
 
@@ -169,7 +173,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Python, LLM APIs, Vector Embeddings, FAISS, Semantic Retrieval
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 📈 Relay CRM — AI-Assisted SaaS CRM Dashboard — *Apr 2026*
 - Full-featured SaaS CRM with real-time analytics, automated customer insights, and lead scoring
@@ -177,7 +181,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** React, Python, GenAI APIs, REST APIs, Data Visualization
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 🌐 Multilingual Batch OCR System for High-Accuracy Digitization of Scanned PDFs — *Feb 2026*
 - Built a high-accuracy multilingual OCR pipeline for batch digitization of scanned PDFs into structured, searchable text
@@ -185,7 +189,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Python, OCR, NLP, PDF Processing, Batch Automation
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 🔎 FAQ Semantic Search Engine using RAG — *Jan 2026*
 - RAG-architecture semantic search enabling precise natural-language querying of enterprise knowledge bases
@@ -193,7 +197,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Python, RAG Architecture, Embeddings, FAISS, REST APIs
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 📝 LLM-Based Text Analysis and Insight Generation System — *Nov 2025*
 - Developed an LLM-powered text analysis system for extracting structured insights, themes, and summaries from unstructured data
@@ -201,7 +205,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Python, LLMs, NLP, Data Pipelines
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 📄 AI-Powered Resume Parser and Candidate Screening Pipeline — *Jul 2025*
 - Automated resume parsing and candidate screening using LLM-driven NLP pipelines, significantly reducing HR manual effort
@@ -209,7 +213,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Python, NLP, LLM APIs, REST APIs, JSON Parsing
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### 🏭 IoT-Based Industrial Machine Health Monitoring and Control — *Mar 2025 - May 2025*
 - Real-time sensor fusion for vibration, temperature, and current detection
@@ -218,7 +222,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** ESP8266, Python, MQTT, InfluxDB, Grafana, DHT11, MPU6050, ML
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ### ⚡ Piezoelectric Energy Harvester with Smart Power Management — *Aug 2023 - Dec 2023*
 - MEMS-based energy harvesting system with intelligent power management and MPPT algorithm for optimal energy extraction
@@ -226,7 +230,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **Tech Stack:** Arduino, MATLAB, Capacitor Storage, Power Electronics, MPPT
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 📜 Certifications
 
@@ -258,7 +262,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🎓 Education
 
@@ -270,15 +274,21 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 
 **10th Grade — 89.4%** *(2019)* — Maxwell Matriculation HSS, Thanjavur
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=rctharan19&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=rctharan19&theme=radical&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rctharan19&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=rctharan19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=10)
+![](https://streak-stats.demolab.com/?user=rctharan19&theme=tokyonight&hide_border=true&border_radius=10)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rctharan19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10)
 
----
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rctharan19/rctharan19/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<sub>💡 To activate this animation: create a GitHub Action using <a href="https://github.com/Platane/snk">Platane/snk</a> in your `rctharan19/rctharan19` repo — it auto-generates a colorful animated snake from your real contribution graph.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🏆 Awards & Recognition
 
@@ -287,7 +297,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 - 🏁 Finalist – IoT Hackathon and Automation Design Challenge (2024)
 - 📄 Research Publication – *IoT-Based Industrial Machine Health Monitoring*, IJARSCT Vol. 5, Issue 2, May 2025 | ISSN: 2581-9429
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # ⭐ Key Achievements
 
@@ -298,7 +308,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 - Published peer-reviewed research on predictive maintenance at international journal IJARSCT
 - Achieved University Rank 1 (2023) and Rank 2 (2024) while completing 15+ professional certifications
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 🤝 Professional Activities & Memberships
 
@@ -307,7 +317,7 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 - 🙋 Technical Volunteer – AAMEC Tech Symposiums and Public Outreach Programs
 - 🌐 Open-Source Contributor – GitHub projects in AI, IoT, and embedded systems
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 📫 Connect with Me
 
@@ -323,6 +333,8 @@ Results-driven IT and Data Analytics professional with a B.E. in Electrical & El
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ⭐ *If you like my work, feel free to explore my repositories and connect with me!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
