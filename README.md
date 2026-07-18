@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=R%20C%20Tharan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%26%20AI%20Solutions%20Engineer%20%7C%20IoT%20Systems%20%7C%20IT%20Infrastructure&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">Hi 👋, I'm R C Tharan</h1>
+<h3 align="center">Data Analytics & AI Solutions Engineer | IoT Systems | IT Infrastructure</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rctharan19">
