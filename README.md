@@ -16,11 +16,7 @@
 </p>
 <p align="center"><i>📍 Thanjavur, Tamil Nadu, India</i></p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/rctharan19?label=Followers&style=for-the-badge&color=4a00e0&logo=github"/>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 # 👨‍💻 About Me
 
